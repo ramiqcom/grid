@@ -1,0 +1,18 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grid.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node grid.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/earthengine": "^0.1.369",
+    "@turf/turf": "^6.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
